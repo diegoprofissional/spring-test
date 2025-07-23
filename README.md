@@ -1,6 +1,6 @@
 # spring test
 
-** sample text **
+**sample text**
 ### h3
 ## h2
 # h1
