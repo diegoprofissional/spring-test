@@ -1,6 +1,6 @@
 # spring test
 
-__sample text__
+__sample text merge__
 ### h3
 ## h2
 # h1
